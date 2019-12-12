@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.banner {
+	width: 100%;
+	height: 100vh;
+	background: linear-gradient(65deg, #7bf 50%, transparent 50%) center center / 100% 100%, url('huang-yin-the-gunner.jpg') right center / auto 100%;
+}
+
+.container {
+	width: 1200px;
+	height: 100%;
+	margin: auto;
+}
+
+.banner-txt {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.banner-txt h1 {
+	font-size: 40px;
+	border-bottom: 1px solid #333;
+	font-weight: 800;
+	padding-bottom: 0.3em;
+	margin-bottom: 0.3em;
+}
+
+.banner-txt h1 small {
+	display: block;
+	font-size: 28px;
+	font-weight: 700;
+}
+
+.banner-txt p {
+	font-size: 18px;
+	font-weight: 300;
+	margin-right: 10px;
+}
+
+.banner-txt p i {
+	margin-right: 8px;
+}
