@@ -4,6 +4,6 @@
 
 - [x] [001 - 圖文滿版區塊](https://hwahii.github.io/30LayoutPractices/001-pic-and-text-full-page/)
 
-- [ ] 002 - 互動圖文卡片
+- [x] [002 - 互動圖文卡片](https://hwahii.github.io/30LayoutPractices/002-interactive-cards/)
 
 - [ ] 003 - 人員介紹卡片
