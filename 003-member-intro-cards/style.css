@@ -11,7 +11,7 @@ body {
 body {
 	display: flex;
 	align-items: center;
-	background-color: #003;
+	background-color: #F1C604;
 }
 #circle-monster {
 	width: 188px;
@@ -80,11 +80,11 @@ body {
 	transform: translateY(-50px);
 }
 .item:hover .txt {
-	background-image: linear-gradient(0deg, black, gray);
+	background-image: linear-gradient(0deg, #252D31, #677d89);
 }
 .item:hover .txt:before {
-	border-left: 94px solid gray;
-	border-right: 94px solid gray;
+	border-left: 94px solid #677d89;
+	border-right: 94px solid #677d89;
 }
 .item:hover h2 {
 	color: #fff;
