@@ -6,4 +6,4 @@
 
 - [x] [002 - 互動圖文卡片](https://hwahii.github.io/30LayoutPractices/002-interactive-cards/)
 
-- [ ] 003 - 人員介紹卡片
+- [x] [003 - 人員介紹卡片](https://hwahii.github.io/30LayoutPractices/003-member-intro-cards/)

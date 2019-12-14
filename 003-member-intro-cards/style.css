@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+html,
+body {
+	height: 100%;
+}
+body {
+	display: flex;
+	align-items: center;
+	background-color: #003;
+}
+#circle-monster {
+	width: 188px;
+	height: 340px;
+	background: url(circle-square-triangle.png) -4px -4px;
+}
+#square-monster {
+	width: 188px;
+	height: 340px;
+	background: url(circle-square-triangle.png) -276px -4px;
+}
+#triangle-monster {
+	width: 188px;
+	height: 340px;
+	background: url(circle-square-triangle.png) -548px -4px;
+}
+.wrap {
+	width: 1200px;
+    display: flex;
+    justify-content: center;
+	margin: auto;
+}
+.item {
+	width: 188px;
+	margin: 15px;
+	text-align: center;
+	background-color: #fff;
+	transform: translateY(0px);
+	transition: 0.5s;
+}
+.item img {
+	width: 100%;
+	vertical-align: middle;
+}
+.item h2 {
+	border-bottom: 1px solid #888;
+	padding-bottom: 0.3em;
+	margin-bottom: 0.3em;
+	font-weight: 700;
+	transition: 0.25s;
+}
+.item p {
+	line-height: 1.6;
+	font-weight: 300;
+	transition: 0.25s;
+}
+.item .txt {
+	height: 277px;
+	padding: 20px;
+	position: relative;
+}
+
+.item .txt:before {
+	content: '';
+	position: absolute;
+	width: 0;
+	height: 0;
+	left: 0;
+	top: 0;
+	border-top: 50px solid transparent;
+	border-left: 94px solid #fff;
+	border-right: 94px solid #fff;
+	transform: translateY(-100%);
+}
+.item:hover {
+	transform: translateY(-50px);
+}
+.item:hover .txt {
+	background-image: linear-gradient(0deg, black, gray);
+}
+.item:hover .txt:before {
+	border-left: 94px solid gray;
+	border-right: 94px solid gray;
+}
+.item:hover h2 {
+	color: #fff;
+	border-bottom-color: #fff;
+}
+.item:hover p {
+	color: #fff;
+}
