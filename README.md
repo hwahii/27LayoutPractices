@@ -9,3 +9,5 @@
 - [x] [003 - 人員介紹卡片](https://hwahii.github.io/30LayoutPractices/003-member-intro-cards/)
 
 - [x] [004 - 交錯漂浮版](https://hwahii.github.io/30LayoutPractices/004-staggered-floating-boards/)
+
+- [x] [005 - 超通用橫式版面](https://hwahii.github.io/30LayoutPractices/005-horizontal-cards/)
