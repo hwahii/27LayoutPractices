@@ -14,7 +14,7 @@
 
 - [x] [006 - 網頁頁尾版塊](https://hwahii.github.io/27LayoutPractices/006-footer/)
 
-- [ ] 007 - 導覽列
+- [x] [007 - 導覽列](https://hwahii.github.io/27LayoutPractices/007-navbar/)
 
 - [ ] 008 - 變化導覽列
 
