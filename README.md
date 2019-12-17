@@ -16,7 +16,7 @@
 
 - [x] [007 - 導覽列](https://hwahii.github.io/27LayoutPractices/007-navbar/)
 
-- [ ] 008 - 變化導覽列
+- [x] [008 - 變化導覽列](https://hwahii.github.io/27LayoutPractices/008-changed-navbar/)
 
 - [ ] 009 - 網站麵包屑
 
