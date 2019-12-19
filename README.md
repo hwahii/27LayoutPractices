@@ -20,7 +20,7 @@
 
 - [x] [009 - 網站麵包屑](https://hwahii.github.io/27LayoutPractices/009-breadcrumb/)
 
-- [ ] 010 - 方塊酥版面
+- [x] [010 - 方塊酥版面](https://hwahii.github.io/27LayoutPractices/010-square-cookies)
 
 - [ ] 011 - 破格式設計
 
