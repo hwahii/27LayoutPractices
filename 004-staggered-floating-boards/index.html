@@ -7,6 +7,7 @@
 		<title>004</title>
 		<link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC:300,700&display=swap" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
 	</head>
 	<body>
 		<div class="wrap">
@@ -14,13 +15,13 @@
 				<div class="pic">
 					<img src="images/photo-1.jpg" alt="photo-1" />
 				</div>
-				<div class="txt">
+				<div class="txt" data-aos="fade-left">
 					<h2>亞維儂</h2>
 					<p>始建於羅馬時期的古城，現今是法國南部的旅遊勝地之一。</p>
 				</div>
 			</div>
 			<div class="item">
-				<div class="txt">
+				<div class="txt" data-aos="fade-right">
 					<h2>奇岩公園</h2>
 					<p>從 17 世紀開始，這裡便是亞維儂居民散步的好去處，</p>
 				</div>
@@ -32,13 +33,13 @@
 				<div class="pic">
 					<img src="images/photo-3.jpg" alt="photo-3" />
 				</div>
-				<div class="txt">
+				<div class="txt" data-aos="fade-left">
 					<h2>南法風情</h2>
 					<p>在這裡，你能夠望見隆河的壯麗景緻。</p>
 				</div>
 			</div>
 			<div class="item">
-				<div class="txt">
+				<div class="txt" data-aos="fade-right">
 					<h2>主教座堂</h2>
 					<p>古老而莊嚴，歷任教皇的安息之地。</p>
 				</div>
@@ -47,5 +48,9 @@
 				</div>
 			</div>
 		</div>
+		<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+		<script>
+			AOS.init({duration: 1000});
+		</script>
 	</body>
 </html>
