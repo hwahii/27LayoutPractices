@@ -22,7 +22,7 @@
 
 - [x] [010 - 方塊酥版面](https://hwahii.github.io/27LayoutPractices/010-square-cookies)
 
-- [ ] 011 - 破格式設計
+- [x] [011 - 破格式設計](https://hwahii.github.io/27LayoutPractices/011-break-box-design)
 
 - [ ] 012 - 表格
 
