@@ -24,7 +24,7 @@
 
 - [x] [011 - 破格式設計](https://hwahii.github.io/27LayoutPractices/011-break-box-design/)
 
-- [ ] 012 - 表格
+- [x] [012 - 表格](https://hwahii.github.io/27LayoutPractices/012-table/)
 
 - [ ] 013 - 側邊選單
 
