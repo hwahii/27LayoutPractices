@@ -26,7 +26,7 @@
 
 - [x] [012 - 表格](https://hwahii.github.io/27LayoutPractices/012-table/)
 
-- [ ] 013 - 側邊選單
+- [x] [013 - 側邊選單](https://hwahii.github.io/27LayoutPractices/013-side-menu/)
 
 - [ ] 014 - 收合式側邊選單
 
