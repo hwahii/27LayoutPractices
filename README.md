@@ -28,7 +28,7 @@
 
 - [x] [013 - 側邊選單](https://hwahii.github.io/27LayoutPractices/013-side-menu/)
 
-- [ ] 014 - 收合式側邊選單
+- [x] [014 - 收合式側邊選單](https://hwahii.github.io/27LayoutPractices/014-collapsed-side-menu/)
 
 - [ ] 015 - 多層次側邊選單
 
