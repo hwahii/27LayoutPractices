@@ -30,7 +30,7 @@
 
 - [x] [014 - 收合式側邊選單](https://hwahii.github.io/27LayoutPractices/014-collapsed-side-menu/)
 
-- [x] [015 - 多層次收合選單](https://hwahii.github.io/27LayoutPractices/014-hierarchical-collapsed-side-menu/)
+- [x] [015 - 多層次收合選單](https://hwahii.github.io/27LayoutPractices/015-hierarchical-collapsed-side-menu/)
 
 - [ ] 016 - 訂單進度條
 
