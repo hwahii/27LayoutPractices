@@ -32,7 +32,7 @@
 
 - [x] [015 - 多層次收合選單](https://hwahii.github.io/27LayoutPractices/015-hierarchical-collapsed-side-menu/)
 
-- [ ] 016 - 訂單進度條
+- [x] [016 - 訂單進度條](https://hwahii.github.io/27LayoutPractices/016-order-progress/)
 
 - [ ] 017 - 登入表單
 
