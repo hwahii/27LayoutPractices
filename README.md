@@ -36,7 +36,7 @@
 
 - [x] [017 - 登入表單](https://hwahii.github.io/27LayoutPractices/017-login-form/)
 
-- [ ] 018 - 訊息對話紀錄
+- [x] [018 - 訊息對話紀錄](https://hwahii.github.io/27LayoutPractices/018-chat-dialog/)
 
 - [ ] 019 - 時間軸
 
