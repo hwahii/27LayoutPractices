@@ -38,7 +38,7 @@
 
 - [x] [018 - 訊息對話紀錄](https://hwahii.github.io/27LayoutPractices/018-chat-dialog/)
 
-- [ ] 019 - 時間軸
+- [x] [019 - 時間軸](https://hwahii.github.io/27LayoutPractices/019-timeline/)
 
 - [ ] 020 - 旋轉拼接方塊
 
