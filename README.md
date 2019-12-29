@@ -40,7 +40,7 @@
 
 - [x] [019 - 時間軸](https://hwahii.github.io/27LayoutPractices/019-timeline/)
 
-- [ ] 020 - 旋轉拼接方塊
+- [x] [020 - 旋轉拼接方塊](https://hwahii.github.io/27LayoutPractices/020-rotated-squares/)
 
 - [ ] 021 - 不規則邊緣
 
