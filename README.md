@@ -42,7 +42,7 @@
 
 - [x] [020 - 旋轉拼接方塊](https://hwahii.github.io/27LayoutPractices/020-rotated-squares/)
 
-- [ ] 021 - 不規則邊緣
+- [x] [021 - 不規則邊緣](https://hwahii.github.io/27LayoutPractices/021-irregular-edge/)
 
 - [ ] 022 - 文字排版（上）
 
