@@ -44,7 +44,7 @@
 
 - [x] [021 - 不規則邊緣](https://hwahii.github.io/27LayoutPractices/021-irregular-edge/)
 
-- [ ] 022 - 文字排版（上）
+- [x] [022 - 文字排版（上）](https://hwahii.github.io/27LayoutPractices/022-text-layout-1/)
 
 - [ ] 023 - 文字排版（中）
 
