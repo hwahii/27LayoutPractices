@@ -37,3 +37,8 @@
 	column-gap: 30px;
 	line-height: 1.7em;
 }
+
+.footer {
+	width: 100%;
+	text-align: center;
+}
