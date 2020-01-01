@@ -2,4 +2,4 @@
 
 [**View Demo**](https://hwahii.github.io/27LayoutPractices/002-interactive-cards/)
 
-![Interactive cards](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screenshot-002.gif)
+![Interactive cards](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screencast-002.gif)

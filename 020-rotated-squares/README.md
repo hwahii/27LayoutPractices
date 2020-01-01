@@ -2,4 +2,4 @@
 
 [**View Demo**](https://hwahii.github.io/27LayoutPractices/020-rotated-squares/)
 
-![Rotated squares](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screenshot-020.gif)
+![Rotated squares](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screencast-020.gif)

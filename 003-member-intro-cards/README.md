@@ -2,4 +2,4 @@
 
 [**View Demo**](https://hwahii.github.io/27LayoutPractices/003-member-intro-cards/)
 
-![Member introduction cards](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screenshot-003.gif)
+![Member introduction cards](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screencast-003.gif)

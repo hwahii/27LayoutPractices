@@ -2,4 +2,4 @@
 
 [**View Demo**](https://hwahii.github.io/27LayoutPractices/011-break-box-design/)
 
-![Break box design](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screenshot-011.gif)
+![Break box design](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screencast-011.gif)

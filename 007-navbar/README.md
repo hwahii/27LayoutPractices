@@ -2,4 +2,4 @@
 
 [**View Demo**](https://hwahii.github.io/27LayoutPractices/007-navbar/)
 
-![Navbar](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screenshot-007.gif)
+![Navbar](https://raw.githubusercontent.com/hwahii/27LayoutPractices/master/screenshots/screencast-007.gif)
