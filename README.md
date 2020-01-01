@@ -46,7 +46,7 @@
 
 - [x] [022 - 文字排版（上）](https://hwahii.github.io/27LayoutPractices/022-text-layout-1/)
 
-- [ ] 023 - 文字排版（中）
+- [x] [023 - 文字排版（中）](https://hwahii.github.io/27LayoutPractices/023-text-layout-2/)
 
 - [ ] 024 - 文字排版（下）
 
