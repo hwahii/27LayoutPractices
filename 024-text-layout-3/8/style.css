@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+.wrap {
+	margin: 100px 0;
+}
+.container {
+	width: 1200px;
+	margin: auto;
+	display: flex;
+}
+.container h1 {
+	width: 400px;
+	flex-shrink: 0;
+	box-sizing: border-box;
+	font-size: 40px;
+	padding-left: 15px;
+	color: #aaa;
+	transform: rotate(-90deg) translate(-390px, 270px);
+	transform-origin: left top;
+}
+.container .txt {
+	width: 800px;
+	flex-shrink: 0;
+	box-sizing: border-box;
+	column-count: 2;
+	column-gap: 30px;
+	padding: 15px;
+	box-shadow: 0 0 30px #ccc;
+}
+.container .txt p {
+	margin-bottom: 1em;
+}
+
+.container .txt p:first-child::first-letter {
+	font-size: 30px;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 5px;
+	width: 100%;
+	text-align: center;
+}
