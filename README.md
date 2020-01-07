@@ -50,7 +50,7 @@
 
 - [x] [024 - 文字排版（下）](https://hwahii.github.io/27LayoutPractices/024-text-layout-3/)
 
-- [ ] 025 - 文字排版（完）
+- [x] [025 - 文字排版（完）](https://hwahii.github.io/27LayoutPractices/025-text-layout-4/)
 
 - [ ] 026 - 快速版面拼拼樂
 

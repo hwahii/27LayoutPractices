@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+.container {
+	width: 600px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 200px 0 0;
+}
+
+.container .link {
+	width: 100px;
+	height: 50px;
+	border: 1px solid #000;
+	line-height: 50px;
+	text-align: center;
+	cursor: pointer;
+	text-decoration: none;
+	background-color: #fff;
+	color: #000;
+	transition: .3s;
+	margin: -0.5px;
+}
+
+.container .link:nth-child(odd) {
+	border-radius: 100px 100px 0 0;
+	padding: 0px;
+}
+.container .link:nth-child(even) {
+	margin-top: 51px;
+	border-radius: 0 0 100px 100px;
+}
+
+.container .link:hover {
+	background-color: #000;
+	color: #fff;
+}
