@@ -52,6 +52,6 @@
 
 - [x] [025 - 文字排版（完）](https://hwahii.github.io/27LayoutPractices/025-text-layout-4/)
 
-- [ ] 026 - 快速版面拼拼樂
+- [x] [026 - 快速版面拼拼樂](https://hwahii.github.io/27LayoutPractices/026-layout-combination/)
 
 - [ ] 027 - 重構拼拼版
