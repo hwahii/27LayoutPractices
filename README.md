@@ -54,4 +54,4 @@
 
 - [x] [026 - 快速版面拼拼樂](https://hwahii.github.io/27LayoutPractices/026-layout-combination/)
 
-- [ ] 027 - 重構拼拼版
+- [x] [027 - 重構拼拼版](https://hwahii.github.io/27LayoutPractices/027-refactored-layout-combination/)
